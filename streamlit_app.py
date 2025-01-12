@@ -8,7 +8,7 @@ import plotly.express as px
 #######################
 # Page configuration
 st.set_page_config(
-    page_title="US Population Dashboard",
+    page_title="African Population Dashboard",
     page_icon="🏂",
     layout="wide",
     initial_sidebar_state="expanded")
@@ -30,7 +30,7 @@ st.markdown("""
 
 [data-testid="stVerticalBlock"] {
     padding-left: 0rem;
-    padding-right: 0rem;
+    padding-right: 0rem;=
 }
 
 [data-testid="stMetric"] {
